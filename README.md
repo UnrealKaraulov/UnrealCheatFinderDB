@@ -13,7 +13,8 @@ Support Windows XP - Windows 11
 5. Сканирование скрытого инжекта модулей
 6. Обновляемая база данных читов автоматически загружается с github
 
-Видео инструкция на русском языке : https://www.youtube.com/watch?v=PtZB7S9Y5do ( https://github.com/UnrealKaraulov/UnrealCheatFinderDB/tree/main/ru_video_help )
+Видео инструкция на русском языке : https://www.youtube.com/watch?v=PtZB7S9Y5do 
+( https://github.com/UnrealKaraulov/UnrealCheatFinderDB/tree/main/ru_video_help )
 
 Используется так же как и wargods, но сохраняет результат в report.zip
 
