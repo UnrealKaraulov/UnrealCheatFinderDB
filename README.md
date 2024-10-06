@@ -1,5 +1,4 @@
-UnrealCheatFinder - tool for search cheats/hacks/illegal tools on PC 
-(For Counter-Strike 1.6,CS:Source,CS:GO,CS:2, tool like as wargods)
+UnrealCheatFinder - tool (like as wargods) for search cheats/hacks/illegal tools on PC For Counter-Strike 1.6 (also can support CS:Source,CS:GO,CS:2)
 
 Support Windows XP - Windows 11
 
