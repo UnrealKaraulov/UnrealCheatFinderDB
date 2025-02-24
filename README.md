@@ -1,5 +1,7 @@
 # UnrealCheatFinder Database Repository
 
-This repository is a database for **UnrealCheatFinder**.
+This repository is now archived. UnrealCheatFinder is outdated.
 
-To download UnrealCheatFinder binaries, please follow this link: [UnrealCheatFinder Binaries](https://github.com/UnrealKaraulov/UnrealCheatFinderDB/releases/latest)
+To download EasyCheatDetector binaries, please follow this link: [eCD Binaries](https://github.com/UnrealKaraulov/EasyCheatDetector/releases/latest)
+
+Official website: https://fungun.net/ecd/
